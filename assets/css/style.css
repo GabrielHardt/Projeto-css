@@ -12,6 +12,7 @@
 .caixa {
     border-radius: 10px;
     margin: auto;
+    margin-top: 200px;
     background-color: aliceblue;
     width: 350px;
     height: 500px;
@@ -43,4 +44,8 @@ p {
 
 strong {
     background-color: aliceblue;
+}
+
+div .caixa {
+    justify-content: center;
 }
