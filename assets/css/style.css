@@ -1,0 +1,46 @@
+
+@import url(.//global.css);
+
+#qrcode {
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    margin-top: -40px;
+}
+
+.caixa {
+    border-radius: 10px;
+    margin: auto;
+    background-color: aliceblue;
+    width: 350px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+div {
+    background-color: aliceblue;
+}
+
+#merda {
+    background-color: aliceblue;
+    font-size: 24px;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 900;
+}
+
+p {
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+strong {
+    background-color: aliceblue;
+}
